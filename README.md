@@ -1,6 +1,10 @@
 # SmartCalc v1.0
 
-Welcome to **SmartCalc v1.0**! This advanced calculator application not only handles basic arithmetic operations but also evaluates complex mathematical expressions, supports variable substitution, and plots function graphs. Additionally, it features a credit and deposit calculator for financial planning. 
+Welcome to **SmartCalc v1.0**! This advanced calculator application not only handles basic arithmetic operations but also evaluates complex mathematical expressions, supports variable substitution, and plots function graphs. Additionally, it features a credit and deposit calculator for financial planning.
+
+<p align="center">
+   <img src="img/cat2.jpeg" alt="Main Window" width="400">
+</p>
 
 ## Features
 
@@ -64,6 +68,12 @@ Welcome to **SmartCalc v1.0**! This advanced calculator application not only han
 
 ## Interface
 
+<p align="center">
+  <img src="img/mainwindow.png" alt="Main Window" width="400">
+  <img src="img/graphwindow.png" alt="Graph Window" width="400">
+  <img src="img/loanwindow.png" alt="Loan Calculator Window" width="400">
+  <img src="img/depositwindow.png" alt="Deposit Calculator Window" width="400">
+</p>
 
 
 ## Unit Testing
